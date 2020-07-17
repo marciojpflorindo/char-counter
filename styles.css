@@ -10,6 +10,7 @@ body {
 }
 
 h1 {
+	font-family: sans-serif;
 	color: #4b5858;
 	text-transform: uppercase;
 	font-weight: bold;
