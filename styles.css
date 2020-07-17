@@ -1,0 +1,31 @@
+*,
+*:before,
+*::after {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #b2cecf;
+	text-align: center;
+}
+
+h1 {
+	color: #4b5858;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.title {
+	margin: 100px;
+}
+
+.text-box {
+	font-size: 1.5em;
+	/* width: 30em; */
+	padding: 12px 20px;
+	margin: 8px 0;
+}
+
+.final-value {
+	font-size: 1.5em;
+}
